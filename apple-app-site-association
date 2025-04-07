@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "JSV6VH5LR3.com.retroverse.WonderMe",
-                "paths": ["wonderme/*"]
+                "paths": ["/wonderme", "/wonderme/*"]
             }
         ]
     },
