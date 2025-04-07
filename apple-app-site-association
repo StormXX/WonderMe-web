@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "JSV6VH5LR3.com.retroverse.WonderMe",
+                "paths": ["wonderme/*"]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": ["JSV6VH5LR3.com.retroverse.WonderMe"]
+    }
+} 
